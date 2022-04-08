@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dpelster3.github.io/about/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://dpelster3.github.io/</loc>
-    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dpelster3.github.io/post/</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dpelster3.github.io/2022/04/08/the-big-12-has-staked-their-claim-as-the-best-conference-in-college-basketball/</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dpelster3.github.io/about/</loc>
     <lastmod>2022-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dpelster3.github.io/2022/03/24/rock-chalk/</loc>
